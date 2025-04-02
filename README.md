@@ -1,13 +1,5 @@
 # InfluenX-AI-Review
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Untitled Document</title>
-</head>
-
-<body>
 <div role="button" tabindex="0">
   <div><img alt="InfluenX AI Review" width="700" height="700" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:1050/1*viy14ov86szStRBNBlmvgw.png" /></div>
 </div>
@@ -58,5 +50,4 @@
 <p id="9fb4" data-selectable-paragraph="">With its advanced features, automated posting, global reach, and monetization options,&nbsp;<strong>InfluenX AI</strong>&nbsp;is an invaluable tool for anyone looking to tap into the influencer economy. If you&rsquo;re ready to make your mark without the hassle,&nbsp;<strong>InfluenX AI</strong>&nbsp;is your ticket to success.</p>
 <p id="5f1d" data-selectable-paragraph="">Don&rsquo;t miss out on the future of social media marketing. Get started with&nbsp;<strong>InfluenX AI</strong>&nbsp;today and revolutionize your business!</p>
 <p id="7848" data-selectable-paragraph=""><a href="https://aidigireview.com/influenx-ai-review/" rel="noopener ugc nofollow" target="_blank">Review more on official website before you buy &gt;&gt;</a></p>
-</body>
-</html>
+
